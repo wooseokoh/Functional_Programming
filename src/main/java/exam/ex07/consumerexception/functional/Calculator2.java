@@ -24,9 +24,9 @@ public class Calculator2 {
                         .accept(2, dividend)
         );
 
-        dividends.forEach(dividend ->
-                LambdaWrappers.wrapContinueSelectively(DIVISION, ArithmeticException.class, e -> ...)
-                        .accept(2, dividend)
-        );
+//        dividends.forEach(dividend ->
+//                LambdaWrappers.wrapContinueSelectively(DIVISION, ArithmeticException.class, e -> ...)
+//                        .accept(2, dividend)
+//        );
     }
 }
