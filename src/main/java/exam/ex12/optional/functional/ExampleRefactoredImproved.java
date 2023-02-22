@@ -38,7 +38,7 @@ public class ExampleRefactoredImproved {
                 Optional.of(message)
                         .filter(this::hasBrackets)
                         .map(this::errorMessage)
-                        .orElse(message);
+                        .orElse(message));
     }
 
     private String errorMessage(String message) {
