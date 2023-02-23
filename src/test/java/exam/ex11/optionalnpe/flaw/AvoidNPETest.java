@@ -1,4 +1,4 @@
-package com.example.functional_programming.exam.ex11.optionalnpe.flaw;
+package exam.ex11.optionalnpe.flaw;
 
 import exam.ex11.optionalnpe.flaw.AvoidNPE;
 import org.apache.commons.lang3.tuple.Pair;

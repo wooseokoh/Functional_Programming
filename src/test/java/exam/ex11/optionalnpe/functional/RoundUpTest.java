@@ -1,4 +1,4 @@
-package com.example.functional_programming.exam.ex11.optionalnpe.functional;
+package exam.ex11.optionalnpe.functional;
 
 import exam.ex11.optionalnpe.functional.RoundUp;
 import org.junit.jupiter.api.DisplayName;
